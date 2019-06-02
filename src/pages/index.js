@@ -14,7 +14,7 @@ const IndexPage = () => (
 
     <h1>Hi!</h1>
     <p>I'm building this in react</p>
-    <p>This shit is hard!</p>
+    <p>Hellow World Kat :)</p>
 
     </div>
     </div>
